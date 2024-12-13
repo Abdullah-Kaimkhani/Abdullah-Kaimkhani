@@ -8,7 +8,7 @@
     This is me <b>Abdullah Kaimkhani,</b> <b>Computer Systems</b> undergraduate from <a href="https://duet.edu.pk/"> <b>Dawood University of Engineering and Technology</b>, Pakistan</a>.
     An aspiring <b>Front-End Developer and</b>&nbsp; <b>Competitive Programmer</b>&nbsp;.
   <br>
-  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
+  <b><i>"---"Strive for progress, not perfection."---"</i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
