@@ -1,12 +1,12 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Meraj Ali</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abdullah Kaimkhani</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Aspiring+Learner;Computer+System+Undergraduate;Front-End+Developer;JS+%7C+React+JS+%7C+Firebase" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <em>
-    This is me <b>Abdullah Kaimkhani</b> <b>Computer Systems</b> undergraduate from <a href="https://duet.edu.pk/"> <b>Dawood University of Engineering and Technology</b>, Pakistan</a>.
-    An aspiring <b>Front-End Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <a href="https://techverzsolutions.com/" target="_blank"><b> Co-Founder of Techverz Development (Student Based Startup) </b></a> 
+    This is me <b>Abdullah Kaimkhani,</b> <b>Computer Systems</b> undergraduate from <a href="https://duet.edu.pk/"> <b>Dawood University of Engineering and Technology</b>, Pakistan</a>.
+    An aspiring <b>Front-End Developer and</b>&nbsp; <b>Competitive Programmer</b>&nbsp;.
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
