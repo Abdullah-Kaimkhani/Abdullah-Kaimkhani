@@ -79,11 +79,11 @@
 ---
 
 ### 🤝 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/meraj-ali-888387253/) 
-- [Gmail](mailto:merajali45425@gmail.com) 
-- [Instagram](https://www.instagram.com/merajalyyy/) 
-- [Facebook](https://www.facebook.com/profile.php?id=100008624371305) 
-- [GitHub](https://github.com/MerajAli1)
+- [LinkedIn](https://www.linkedin.com/in/abdullah-kaimkhani-017a89274/) 
+- [Gmail](mailto:abdullahjavedkk@gmail.com) 
+- [Instagram](https://www.instagram.com/abdullahkaimkhani/) 
+- [Facebook](https://www.facebook.com/share/1MRZDR9172/?mibextid=wwXIfr) 
+- [GitHub](https://github.com/Abdullah-Kaimkhani)
 
 ---
 
