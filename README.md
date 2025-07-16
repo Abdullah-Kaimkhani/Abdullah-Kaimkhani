@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <em>
-    I'm <b>Abdullah Kaimkhani</</b>, a <b>Computer System</b> undergraduate from <a href="https://duet.edu.pk/"> <b>Dawood University of Engineering and Technology</b>, Pakistan</a>.
-    An aspiring <b>Front-End Developer</b> and <b>Competitive Programmer</b>.
+<em>
+    I'm <b>Abdullah Kaimkhani</b>, a <b>Computer Systems Engineering</b> undergraduate from <a href="https://duet.edu.pk/"><b>Dawood University of Engineering and Technology</b>, Pakistan</a>.
+    An aspiring <b>MERN Stack Developer</b> with a passion for building modern web applications.
     <br><b><i>"---Strive for progress, not perfection.---"</i></b>
-  </em>
+</em>
 </p>
 
 ---
