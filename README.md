@@ -36,7 +36,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" title="CSS3"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" title="Firebase"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="30" title="Redux"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" title="TailwindCSS"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="30" title="Bootstrap"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30" title="Node.js"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" title="Git"/>
