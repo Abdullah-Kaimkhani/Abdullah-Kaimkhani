@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abdullah Kaimkhani</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Aspiring+Learner;Computer+System+Undergraduate;Front-End+Developer;JS+%7C+React+JS+%7C+Firebase" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Computer+Systems+Engineering+Student;MERN+Stack+Developer;React+JS+%7C+Node+JS+%7C+MongoDB;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
+</a>
 </p>
 
 <p align="center">
