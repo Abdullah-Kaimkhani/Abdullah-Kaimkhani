@@ -1,64 +1,83 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abdullah Kaimkhani</h1>
-
+<!-- Professional Portfolio Header -->
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="vertical-align:middle;">, I'm <span style="color:#4CAF50;">Abdullah Kaimkhani</span>
+</h1>
+<p align="center" style="font-size:1.2em;">
+  <b>Computer Systems Engineering Student | MERN Stack Developer | Aspiring Full Stack Engineer</b>
+</p>
 <p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Computer+Systems+Engineering+Student;MERN+Stack+Developer;React+JS+%7C+Node+JS+%7C+MongoDB;Aspiring+Full+Stack+Engineer" alt="Typing SVG" />
-    </a>
+  <i>
+    Passionate about building modern, scalable web applications.<br>
+    <b>"Strive for progress, not perfection."</b>
+  </i>
 </p>
 
+<hr style="border:1px solid #eee;">
+
+<!-- Quick Facts -->
+<h3 align="center">A Little About Me</h3>
+<ul align="center" style="list-style:none;">
+  <li>🧑‍💻 Tech enthusiast since childhood</li>
+  <li>🚀 Focused on Front-End & MERN Stack Development</li>
+  <li>🤝 Open to collaboration on web & mobile projects</li>
+  <li>🌱 Active contributor to open source</li>
+  <li>🏏 Cricket lover & sports enthusiast</li>
+</ul>
+
+<hr style="border:1px solid #eee;">
+
+<!-- Tech Stack -->
+<h3 align="center">Tech Stack</h3>
 <p align="center">
-<em>
-    I'm <b>Abdullah Kaimkhani</b>, a <b>Computer Systems Engineering</b> undergraduate from <a href="https://duet.edu.pk/"><b>Dawood University of Engineering and Technology</b>, Pakistan</a>.<br>
-    Passionate about building modern, responsive, and scalable web applications using the <b>MERN Stack</b>.<br>
-    <br><b><i>"Strive for progress, not perfection."</i></b>
-</em>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" title="JavaScript"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="ReactJS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg" height="30" title="Next.js"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="30" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" title="CSS3"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" title="Firebase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="30" title="Redux"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" title="TailwindCSS"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="30" title="Bootstrap"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30" title="Node.js"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" title="Git"/>
 </p>
 
----
-
-## 🚀 About Me
-- 👨‍💻 Tech enthusiast with strong focus on **Frontend** & **MERN Stack Development**.
-- 🔭 Currently building projects using **React, Node, Express, MongoDB**.
-- 📚 Constantly learning and exploring **modern web technologies**.
-- 💡 Open to collaborate on web development projects and open-source contributions.
-
----
-
-## 💼 Tech Stack
+<!-- Learning -->
+<h3 align="center">Currently Exploring</h3>
 <p align="center">
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30" title="Node.js"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="30" title="MongoDB"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="30" title="MySQL"/>
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="30" title="PHP"/>
 </p>
 
----
+<hr style="border:1px solid #eee;">
 
-## 📈 GitHub Stats
+<!-- GitHub Stats -->
+<h3 align="center">GitHub Stats & Achievements</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Kaimkhani&show_icons=true&theme=radical" alt="Abdullah's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Kaimkhani&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Kaimkhani&theme=radical" alt="Streak Stats"/>
+  <a href="https://github.com/Abdullah-Kaimkhani">
+    <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Kaimkhani&show_icons=true&hide_border=true&title_color=4CAF50&icon_color=4CAF50&text_color=333&bg_color=fff" height="160"/>
+  </a>
+  <a href="https://github.com/Abdullah-Kaimkhani">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Kaimkhani&layout=compact&hide_border=true&title_color=4CAF50&text_color=333&bg_color=fff" height="160"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Kaimkhani&theme=default" height="160"/>
 </p>
 
----
+<hr style="border:1px solid #eee;">
 
-## 🤝 Connect with Me
+<!-- Contact -->
+<h3 align="center">Let's Connect</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/abdullah-kaimkhani-017a89274/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:abdullahjavedkk@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://github.com/Abdullah-Kaimkhani"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/abdullah-kaimkhani-017a89274/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" title="LinkedIn"/></a>
+  <a href="mailto:abdullahjavedkk@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" title="Gmail"/></a>
+  <a href="https://www.instagram.com/abdullahkaimkhani/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" title="Instagram"/></a>
+  <a href="https://www.facebook.com/share/1MRZDR9172/?mibextid=wwXIfr" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" title="Facebook"/></a>
+  <a href="https://github.com/Abdullah-Kaimkhani" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" title="GitHub"/></a>
 </p>
 
----
-
-<p align="center">
-<b>"Strive for progress, not perfection."</b>
-</p>
+<hr style="border:1px solid #eee;">
+<p align="center"><b>"Strive for progress, not perfection."</b></p>
